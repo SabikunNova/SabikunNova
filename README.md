@@ -1,3 +1,4 @@
+![logo](https://github.com/SabikunNova/SabikunNova/blob/main/Blue%20and%20White%20Minimalist%20Professional%20Product%20Marketing%20Manager%20Linkedln%20Background%20Photo%20(1).png)
 <h1 align="center">Hi 👋, I'm Nova</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabikunnova&label=Profile%20views&color=0e75b6&style=flat" alt="sabikunnova" /> </p>
 
