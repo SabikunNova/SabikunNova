@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Blue and White Minimalist Professional Product Marketing Manager Linkedln Background Photo (1).png" alt="Profile Banner" width="100%">
 </p>
-# 👋 Hi, I'm Nova
+<h1 align="center">Hi 👋, I'm Sabikun Nahar Nova</h1>
 
 ## 👩‍💻 About Me
 
