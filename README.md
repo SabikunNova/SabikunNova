@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Blue and White Minimalist Professional Product Marketing Manager Linkedln Background Photo (1).png" alt="Profile Banner" width="100%">
+  <img src="banner.png" alt="Profile Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Sabikun Nahar Nova</h1>
 
