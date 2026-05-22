@@ -1,20 +1,97 @@
-![logo](https://github.com/SabikunNova/SabikunNova/blob/main/Blue%20and%20White%20Minimalist%20Professional%20Product%20Marketing%20Manager%20Linkedln%20Background%20Photo%20(1).png)
-<h1 align="center">Hi 👋, I'm Nova</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabikunnova&label=Profile%20views&color=0e75b6&style=flat" alt="sabikunnova" /> </p>
+# 👋 Hi, I'm Nova
 
-- ⚡ Fun fact **I am funny**
+## 👩‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="codding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabikunnaharnova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabikunnaharnova/" height="30" width="40" /></a>
-<a href="https://fb.com/sabikun nahar nova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabikun nahar nova" height="30" width="40" /></a>
-<a href="https://instagram.com/sabikun nahar nova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabikun nahar nova" height="30" width="40" /></a>
-<p align="left">
-</p>
+- 🎓 I am a Computer Science and Engineering (CSE) student passionate about technology and innovation.
+- 🤖 Currently working on research in Machine Learning,Deep Learning, Explainable AI (XAI) and Computer Vision.
+- 🛡️ Research interest includes Women Safety Systems, Emergency Gesture Recognition, and Intrusion Detection using Vision-Based AI.
+- 🌐 Interested in Full-Stack Web Development with Django, React, and MySQL.
+- 🌱 Continuously learning and improving my skills in Python, TensorFlow, OpenCV, JavaScript, and AI-based application development.
+- 💡 I enjoy building practical and real-world intelligent systems that can create social impact.
+- ⚡ Fun fact: I love exploring new technologies and turning ideas into real projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabikunnova&show_icons=true&locale=en" alt="sabikunnova" /></p>
+## 🚀 Current Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabikunnova&" alt="sabikunnova" /></p>
+- 👩‍💻 Vision-Based AI for Women Safety & Emergency Gesture Recognition
+- 🎯 Real-time suspicious activity and intrusion detection systems
+- 🌐 Full-stack development using Django & React
+- 📊 Machine Learning model development and deployment
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### 👨‍💻 Programming Languages
+- Python
+- JavaScript
+- SQL
+
+### 🌐 Web Development
+- Django
+- React
+- HTML5
+- CSS3
+- Bootstrap
+- REST API
+
+### 🤖 AI / Machine Learning
+- Machine Learning
+- Explainable AI (XAI)
+- Computer Vision
+- TensorFlow
+- OpenCV
+- MediaPipe
+- Scikit-learn
+- Pandas
+- NumPy
+
+### 🛢 Database & Tools
+- MySQL
+- Git & GitHub
+- VS Code
+- Google Colab
+- Docker
+
+---
+
+## 📚 Research & Projects
+
+### 👩‍🦰 Vision-Based Women Safety System
+Building a privacy-preserving AI system that recognizes emergency gestures in real time using Computer Vision and deep learning.
+
+### 🎯 Intrusion Detection System
+Working on AI-powered suspicious activity detection and monitoring systems using Machine Learning techniques.
+
+### 🌐 Full-Stack Web Applications
+Developing modern web applications using Django, React, and MySQL with REST API integration.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/SabikunNova
+- LinkedIn: https://www.linkedin.com/in/sabikunnaharnova/
+- Email: sabikunnaharnova@gmail.com
+
+---
+
+⭐ “Technology becomes meaningful when it solves real-world problems.”
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=SabikunNova&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📊 GitHub Stats
+
+![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabikunNova&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SabikunNova&theme=tokyonight)
+
+---
