@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Blue and White Minimalist Professional Product Marketing Manager Linkedln Background Photo (1).png" alt="Profile Banner" width="100%">
+</p>
 # 👋 Hi, I'm Nova
 
 ## 👩‍💻 About Me
